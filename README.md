@@ -1,5 +1,9 @@
 # spring_project
 
+https://dbdiagram.io/d/Disciplines-Catalogue-6550e5077d8bbd6465041175
+
+![Disciplines Catalogue (5)](https://github.com/guava0/spring_project/assets/150153871/4094d820-d822-4afd-84fa-b2d5655e9354)
+
 ### Functional Requirements
 
 1. **Create a Subject**
